@@ -1,3 +1,1 @@
 # DataScience
-<hr>
-<hr>
